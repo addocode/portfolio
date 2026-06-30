@@ -39,7 +39,7 @@
           </p>
 
           <div class="hero__actions">
-            <a class="btn btn--dark" href="#kontakt">Mail schreiben <span class="arrow">→</span></a>
+            <a class="btn btn--dark" href="mailto:adam@dolinsky.ch">Mail schreiben <span class="arrow">→</span></a>
             <a class="btn btn--outline" href="tel:+41414132222">Anrufen <span class="arrow">→</span></a>
           </div>
         </div>
@@ -87,5 +87,6 @@
   
   
   <?php include 'footer.php'; ?>
+  <script src="/assets/js/site.js"></script>
 </body>
 </html>
