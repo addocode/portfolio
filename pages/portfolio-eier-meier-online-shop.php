@@ -1,3 +1,16 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Adam Dolinsky | Eier Meier Online Shop</title>
+  <meta name="description" content="Case Study: Temporärer Online-Shop Relaunch für Eier Meier AG." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/styles.css" />
+</head>
+<body>
 <?php include '../header.php'; ?>
 
 <main class="case-study">
@@ -121,3 +134,6 @@
 </main>
 
 <?php include '../footer.php'; ?>
+  <script src="/assets/js/site.js"></script>
+</body>
+</html>

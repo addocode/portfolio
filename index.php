@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Adam Dolinsky | Digital Content, Design & Web</title>
     <meta name="description" content="Digital Content, Design & Web — klar strukturiert, visuell stark, technisch präzise." />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/styles.css" />
   </head>
   <body>
     <!-- Top Navigation --> <?php include 'header.php'; ?>
@@ -205,89 +209,6 @@
     </section>
     <!-- FOOTER --> <?php include 'footer.php'; ?> 
      
-    <script>
-        // ===== Year
-        document.getElementById('year').textContent = new Date().getFullYear();
-
-        // ===== Mobile menu
-        const burger = document.querySelector('.nav__burger');
-        const menu = document.getElementById('mobileMenu');
-        const closeBtn = document.querySelector('.mobile-menu__close');
-
-        function openMenu() {
-          menu.classList.add('is-open');
-          menu.setAttribute('aria-hidden', 'false');
-          burger.setAttribute('aria-expanded', 'true');
-          document.body.classList.add('no-scroll');
-        }
-
-        function closeMenu() {
-          menu.classList.remove('is-open');
-          menu.setAttribute('aria-hidden', 'true');
-          burger.setAttribute('aria-expanded', 'false');
-          document.body.classList.remove('no-scroll');
-        }
-
-        if (burger && menu && closeBtn) {
-          burger.addEventListener('click', openMenu);
-          closeBtn.addEventListener('click', closeMenu);
-          menu.addEventListener('click', (e) => { if (e.target === menu) closeMenu(); });
-          menu.querySelectorAll('a').forEach(a => a.addEventListener('click', closeMenu));
-        }
-
-        // ===== Slider
-        const track = document.querySelector('.slider__track');
-        const imgs = Array.from(document.querySelectorAll('.slider__img'));
-        const dots = Array.from(document.querySelectorAll('.dot'));
-        const prev = document.querySelector('.slider__arrow--left');
-        const next = document.querySelector('.slider__arrow--right');
-
-        // ---- Shuffle Funktion (Fisher-Yates)
-        function shuffle(array) {
-          for (let i = array.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [array[i], array[j]] = [array[j], array[i]];
-          }
-          return array;
-        }
-
-        // ---- Bilder randomisieren
-        if (track && imgs.length > 0) {
-          const shuffledImgs = shuffle(imgs);
-          shuffledImgs.forEach(img => track.appendChild(img));
-        }
-
-        let index = 0;
-
-        function show(i) {
-          index = (i + imgs.length) % imgs.length;
-
-          imgs.forEach((img, k) => {
-            img.classList.toggle('is-active', k === index);
-          });
-
-          dots.forEach((dot, k) => {
-            dot.classList.toggle('is-active', k === index);
-          });
-        }
-
-        // Initial anzeigen
-        show(0);
-
-        if (prev && next) {
-          prev.addEventListener('click', () => show(index - 1));
-          next.addEventListener('click', () => show(index + 1));
-        }
-
-        dots.forEach((dot, k) => {
-          dot.addEventListener('click', () => show(k));
-        });
-
-        // ---- Auto-Play
-        setInterval(() => {
-          show(index + 1);
-        }, 5000);
-
-    </script>
+    <script src="/assets/js/site.js"></script>
   </body>
 </html>
