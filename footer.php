@@ -12,15 +12,14 @@
 
         <div class="social">
           <a class="social__btn" href="https://ch.linkedin.com/in/adam-dolinsky" target="_blank" rel="noopener" aria-label="LinkedIn">in</a>
-          <a class="social__btn" href="https://ch.linkedin.com/in/adam-dolinsky" target="_blank" rel="noopener" aria-label="X">𝕏</a>
         </div>
       </div>
 
       <div class="footer__col">
         <div class="footer__heading">Navigation</div>
-        <a href="/temppage">Leistungen</a>
+        <a href="/#leistungen">Leistungen</a>
         <a href="/portfolio">Portfolio</a>
-        <a href="/temppage">Über mich</a>
+        <a href="/#ueber-mich">Über mich</a>
         <a href="mailto:adam@dolinsky.ch">Kontakt</a>
       </div>
 
