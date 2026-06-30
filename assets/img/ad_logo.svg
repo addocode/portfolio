@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 31.27 24.64">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#Unbenannter_Verlauf_33);
+      }
+
+      .st1 {
+        fill: #89a2b8;
+      }
+
+      .st2 {
+        fill: url(#Unbenannter_Verlauf_38);
+      }
+    </style>
+    <radialGradient id="Unbenannter_Verlauf_38" data-name="Unbenannter Verlauf 38" cx="11.01" cy="13.78" fx="-3.61" fy="13.78" r="17.58" gradientUnits="userSpaceOnUse">
+      <stop offset=".13" stop-color="#2364ae"/>
+      <stop offset=".42" stop-color="#2a73b8"/>
+      <stop offset=".98" stop-color="#3e9ad5"/>
+      <stop offset=".98" stop-color="#3f9bd6"/>
+      <stop offset=".99" stop-color="#2876bb"/>
+    </radialGradient>
+    <linearGradient id="Unbenannter_Verlauf_33" data-name="Unbenannter Verlauf 33" x1="21.64" y1="19.51" x2="36.53" y2="19.51" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#30405f"/>
+      <stop offset="1" stop-color="#203455"/>
+    </linearGradient>
+  </defs>
+  <path class="st2" d="M12.17,21.54l-4.73,3.1H0L12.92,1.59c1.19-2.12,4.24-2.12,5.43,0l12.92,23.05h-6.05l-7.47-4.89,6.3-4.36-9.06-6.27-1.02-.71c-.76-.53-1.8.01-1.8.94v12.19Z"/>
+  <polygon class="st0" points="31.27 24.64 25.22 24.64 17.75 19.75 25.52 14.38 27.36 17.68 31.27 24.64"/>
+  <polygon class="st1" points="21.68 15.39 16.34 18.83 14.45 20.05 13.66 20.56 13.66 10.22 15.29 11.27 21.68 15.39"/>
+</svg>
