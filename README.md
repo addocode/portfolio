@@ -10,7 +10,7 @@ Lightweight PHP portfolio website for [dolinsky.ch](https://dolinsky.ch). The si
 ├── header.php                # Shared header, brand and navigation markup
 ├── footer.php                # Shared footer, contact data and legal links
 ├── portfolio.php             # Portfolio overview
-├── temppage.php              # Temporary placeholder page used by current navigation
+├── temppage.php              # Temporary fallback page, not linked from visible navigation
 ├── leistungen.php            # Draft/alternate services page
 ├── impressum.php             # Legal notice
 ├── datenschutz.php           # Privacy policy
@@ -53,7 +53,7 @@ Then open <http://localhost:8000> in a browser.
 
 ## Future improvement ideas
 
-- Replace placeholder navigation targets (`/temppage`) with finished `leistungen.php` and `ueber-mich.php` content when ready.
+- Build out dedicated `leistungen.php` and `ueber-mich.php` content when ready; visible navigation currently uses homepage anchors.
 - Expand portfolio case studies with concise problem/role/result sections for job applications.
 - Add a small downloadable CV or application packet if appropriate.
 - Review legal/privacy content before public use, especially if analytics or third-party embeds are added.

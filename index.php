@@ -127,7 +127,7 @@
           </article>
         </div>
         <div class="center">
-          <a class="btn btn--dark btn--wide" href="temppage.php">Alle Leistungen ansehen <span class="arrow">→</span>
+          <a class="btn btn--dark btn--wide" href="#leistungen">Alle Leistungen ansehen <span class="arrow">→</span>
           </a>
         </div>
       </div>
@@ -160,7 +160,7 @@
               <span class="check__icon">✓</span> Printdesign
             </div>
           </div>
-          <a class="btn btn--dark" href="temppage.php">Mehr über mich <span class="arrow">→</span>
+          <a class="btn btn--dark" href="#ueber-mich">Mehr über mich <span class="arrow">→</span>
           </a>
         </div>
       </div>
@@ -188,7 +188,7 @@
           </div>
         </div>
         <div class="center">
-          <a class="btn btn--outline btn--wide" href="temppage.php">Mehr zur Arbeitsweise <span class="arrow">→</span>
+          <a class="btn btn--outline btn--wide" href="#arbeitsweise">Mehr zur Arbeitsweise <span class="arrow">→</span>
           </a>
         </div>
       </div>

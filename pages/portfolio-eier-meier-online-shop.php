@@ -127,7 +127,7 @@
         <div class="container">
             <h2>Interesse an einem ähnlichen Projekt?</h2>
             <p>Ich unterstütze Unternehmen bei digitalen Auftritten mit klarer Struktur, modernem Design und durchdachter Nutzerführung.</p>
-            <a href="/kontakt" class="btn-primary">Projekt anfragen</a>
+            <a href="mailto:adam@dolinsky.ch" class="btn btn--dark">Projekt anfragen</a>
         </div>
     </section>
 

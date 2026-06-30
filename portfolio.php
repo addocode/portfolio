@@ -235,7 +235,8 @@
                     <li>Aufbau der Seite in Webflow gemäss Kundenrücksprache</li>
                     <li>Export des Webcodes und Hochladen auf eigenständig geführtes Hosting</li>
                   </ul>
-                  <a class="btn btn--dark btn--sm" href="https://easy.eiermeier.ch" target="_blank" rel="noopener">Website ansehen <span class="arrow">→</span></a>
+                  <a class="btn btn--dark btn--sm" href="/pages/portfolio-eier-meier-online-shop.php">Case Study ansehen <span class="arrow">→</span></a>
+                  <a class="btn btn--outline btn--sm" href="https://easy.eiermeier.ch" target="_blank" rel="noopener">Website ansehen <span class="arrow">→</span></a>
                 </div>
               </div>
             </div>
@@ -302,97 +303,7 @@
           </div>
         </div>
 
-        <!-- 4 -->
-        <div class="portfolio__item">
-          <button class="portfolio__toggle" type="button" aria-expanded="false">
-            <span>Probiotic AG: Neuer Webauftritt</span>
-            <span class="portfolio__icon" aria-hidden="true">+</span>
-          </button>
-          <div class="portfolio__content">
-            <div class="portfolio__inner">
-              <div class="portfolio__grid">
-                <div class="portfolio__media">
-                  <img src="assets/img/slider/Laptop_2.jpg" alt="Webseite Mockup auf Laptop" loading="lazy">
-                </div>
-                <div class="portfolio__text">
-                  <h3 class="portfolio__innerTitle">Informationen folgen...</h3>
-                  <p>
-                    Schauen Sie später vorbei.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- 5 -->
-        <div class="portfolio__item">
-          <button class="portfolio__toggle" type="button" aria-expanded="false">
-            <span>FORS-Futter: Betreuung und Optimierung der Website</span>
-            <span class="portfolio__icon" aria-hidden="true">+</span>
-          </button>
-          <div class="portfolio__content">
-            <div class="portfolio__inner">
-              <div class="portfolio__grid">
-                <div class="portfolio__media">
-                  <img src="assets/img/slider/Monitor.jpg" alt="Plattform/Website Mockup auf Monitor" loading="lazy">
-                </div>
-                <div class="portfolio__text">
-                  <h3 class="portfolio__innerTitle">Informationen folgen...</h3>
-                  <p>
-                    Schauen Sie später vorbei.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- 6 -->
-        <div class="portfolio__item">
-          <button class="portfolio__toggle" type="button" aria-expanded="false">
-            <span>FORS-Futter: Erstellung von Flyern</span>
-            <span class="portfolio__icon" aria-hidden="true">+</span>
-          </button>
-          <div class="portfolio__content">
-            <div class="portfolio__inner">
-              <div class="portfolio__grid">
-                <div class="portfolio__media">
-                  <img src="assets/img/slider/Flyer_2.jpg" alt="Flyer Mockup mit Kaffee" loading="lazy">
-                </div>
-                <div class="portfolio__text">
-                  <h3 class="portfolio__innerTitle">Informationen folgen...</h3>
-                  <p>
-                    Schauen Sie später vorbei.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- 7 -->
-        <div class="portfolio__item">
-          <button class="portfolio__toggle" type="button" aria-expanded="false">
-            <span>Eier Meier AG: Werbeunterlagen für Produkte und Aktionen</span>
-            <span class="portfolio__icon" aria-hidden="true">+</span>
-          </button>
-          <div class="portfolio__content">
-            <div class="portfolio__inner">
-              <div class="portfolio__grid">
-                <div class="portfolio__media">
-                  <img src="assets/img/slider/Flyer_1.jpg" alt="Tischsteller / Print Mockup" loading="lazy">
-                </div>
-                <div class="portfolio__text">
-                  <h3 class="portfolio__innerTitle">Informationen folgen...</h3>
-                  <p>
-                    Schauen Sie später vorbei.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+        <!-- Weitere Projekte werden wieder eingeblendet, sobald die Beschreibungen vollständig sind. -->
 
       </div>
 
