@@ -8,7 +8,7 @@
       <nav class="nav__links" aria-label="Hauptnavigation">
         <a href="/#leistungen">Leistungen</a>
         <a href="/portfolio">Portfolio</a>
-        <a href="/#ueber-mich">Über mich</a>
+        <a href="/ueber-mich">Profil</a>
       </nav>
 
       <a class="btn btn--dark nav__cta" href="mailto:adam@dolinsky.ch">Projekt starten</a>
@@ -33,7 +33,7 @@
         <div class="mobile-menu__links">
           <a href="/#leistungen">Leistungen</a>
           <a href="/portfolio">Portfolio</a>
-          <a href="/#ueber-mich">Über mich</a>
+          <a href="/ueber-mich">Profil</a>
         </div>
 
         <a class="btn btn--dark btn--block" href="mailto:adam@dolinsky.ch">Projekt starten</a>

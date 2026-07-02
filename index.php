@@ -160,7 +160,7 @@
               <span class="check__icon">✓</span> Printdesign
             </div>
           </div>
-          <a class="btn btn--dark" href="#ueber-mich">Mehr über mich <span class="arrow">→</span>
+          <a class="btn btn--dark" href="/ueber-mich">Mehr über mich <span class="arrow">→</span>
           </a>
         </div>
       </div>
