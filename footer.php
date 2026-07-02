@@ -19,7 +19,7 @@
         <div class="footer__heading">Navigation</div>
         <a href="/#leistungen">Leistungen</a>
         <a href="/portfolio">Portfolio</a>
-        <a href="/#ueber-mich">Über mich</a>
+        <a href="/ueber-mich">Profil</a>
         <a href="mailto:adam@dolinsky.ch">Kontakt</a>
       </div>
 
@@ -28,10 +28,6 @@
         <div class="footer__contact">
           <span class="footer__icon">✉</span>
           <a href="mailto:adam@dolinsky.ch">adam@dolinsky.ch</a>
-        </div>
-        <div class="footer__contact">
-          <span class="footer__icon">📞</span>
-          <a href="tel:+41414132222">+41 41 413 22 22</a>
         </div>
         <div class="footer__contact">
           <span class="footer__icon">📍</span>
