@@ -33,8 +33,7 @@
 
   <p>
     Adam Dolinsky<br>
-    Seftigenstrasse 113<br>
-    3007 Bern<br>
+    Bern, Schweiz<br>
     E-Mail: adam@dolinsky.ch
   </p>
 
