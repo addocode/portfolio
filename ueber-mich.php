@@ -17,10 +17,10 @@
       <section class="profile-hero section section--alt" aria-label="Profil">
         <div class="container profile-hero__grid">
           <div>
-            <p class="profile-eyebrow">Digital Marketing &amp; Web Specialist</p>
-            <h1 class="profile-title">Mediamatiker EFZ mit Fokus auf Content, Web und strukturierte Marketingumsetzung.</h1>
+            <p class="profile-eyebrow">Digital Content &amp; Medienspezialist</p>
+            <h1 class="profile-title">Digital Content &amp; Medienspezialist mit Mediamatiker-EFZ-Hintergrund, Berufsmaturität und mehrjähriger Verantwortung für Web-, Content- und Marketingprozesse.</h1>
             <p class="profile-lead">
-              Ich unterstütze Unternehmen bei digitalen Inhalten, Websites, Kampagnen- und Printmaterialien sowie der sauberen Pflege von Marketingprozessen. Meine Arbeitsweise ist zuverlässig, qualitätsorientiert und pragmatisch – passend für KMU, Agenturen und interne Marketingteams.
+              Ich verbinde gestalterisches Know-how, technisches Verständnis und organisatorische Klarheit. Für Bewerbungen, interne Marketingteams und ausgewählte Freelance-Anfragen zeige ich hier eine kuratierte Übersicht über Erfahrung, Kompetenzen und ausgewählte Arbeiten – bewusst ohne öffentliches CV-PDF.
             </p>
             <div class="profile-actions">
               <a class="btn btn--dark" href="mailto:adam@dolinsky.ch">Kontakt aufnehmen <span class="arrow">→</span></a>
@@ -29,11 +29,11 @@
           </div>
           <aside class="profile-card" aria-label="Kurzprofil">
             <h2>Aktuelle Positionierung</h2>
-            <p>Digital Content, Web &amp; Medienproduktion an der Schnittstelle von Gestaltung, Technik und Organisation.</p>
+            <p>Digital Content &amp; Medienspezialist an der Schnittstelle von Gestaltung, Web, Medienproduktion und strukturierter Umsetzung.</p>
             <dl class="profile-facts">
               <div><dt>Standort</dt><dd>Bern, Schweiz</dd></div>
-              <div><dt>Profil</dt><dd>Mediamatiker EFZ mit Berufsmaturität</dd></div>
-              <div><dt>Fokus</dt><dd>Marketing, CMS, Content, Print, Prozesse</dd></div>
+              <div><dt>Profil</dt><dd>Digital Content &amp; Medienspezialist</dd></div>
+              <div><dt>Fokus</dt><dd>Web/CMS, Content, Print, Kampagnen, Prozesse</dd></div>
             </dl>
           </aside>
         </div>
@@ -41,13 +41,13 @@
 
       <section class="section" aria-label="Kompetenzen">
         <div class="container">
-          <h2 class="section__title">Key Competencies</h2>
-          <p class="section__subtitle">Kompakt zusammengefasst für Recruiter, Hiring Manager und Auftraggeber.</p>
+          <h2 class="section__title">Key Competencies / Kernkompetenzen</h2>
+          <p class="section__subtitle">Aus dem CV verdichtet: relevante Stärken für Recruiter, Hiring Manager und ausgewählte Auftraggeber.</p>
           <div class="profile-grid profile-grid--four">
-            <article class="card profile-mini-card"><h3>Digital Marketing &amp; Web</h3><p>Website- und Landingpage-Pflege, CMS-Inhalte, Onlineshop-Strukturen, Newsletter, Social Media und digitale Kennzahlen.</p></article>
+            <article class="card profile-mini-card"><h3>Digital Content &amp; Web</h3><p>Betreuung und Weiterentwicklung von Websites, Landingpages, CMS-Inhalten, Onlineshop-Strukturen, Newslettern, Social Media und digitalen Kennzahlen.</p></article>
             <article class="card profile-mini-card"><h3>Content &amp; Medienproduktion</h3><p>Konzeption und Umsetzung von Bild-, Video-, Präsentations- und Dokumentationsinhalten für interne und externe Kommunikation.</p></article>
             <article class="card profile-mini-card"><h3>Design &amp; Print</h3><p>Flyer, Magazine, Roll-Ups, Messeunterlagen, Inserate und markenkonforme Druckdaten mit klarer visueller Hierarchie.</p></article>
-            <article class="card profile-mini-card"><h3>Organisation &amp; Prozesse</h3><p>Strukturierte Projektumsetzung, Prozessdokumentation, Abstimmung mit Partnern und rasche Einarbeitung in neue Systeme.</p></article>
+            <article class="card profile-mini-card"><h3>Organisation, Prozesse &amp; KI</h3><p>Eigenständige Projektumsetzung, Prozessdokumentation, Partnerkoordination, rasche Einarbeitung und sinnvoller Einsatz digitaler Werkzeuge inklusive KI-gestützter Lösungen.</p></article>
           </div>
         </div>
       </section>
@@ -55,7 +55,7 @@
       <section class="section section--alt" aria-label="Berufserfahrung">
         <div class="container profile-split">
           <div>
-            <h2 class="profile-section-title">Selected Work Experience</h2>
+            <h2 class="profile-section-title">Selected Work Experience / Berufserfahrung</h2>
             <div class="timeline">
               <article class="timeline__item">
                 <div class="timeline__date">03/2026 – 05/2026</div>
@@ -84,7 +84,7 @@
             <ul class="profile-list">
               <li>Mediamatiker EFZ</li>
               <li>Berufsmaturität</li>
-              <li>Weiterbildung und Praxis in CMS, Marketing, Medienproduktion und Projektarbeit</li>
+              <li>Praxisnahe Vertiefung in CMS, Marketing, Medienproduktion, HTML/CSS und Projektarbeit</li>
             </ul>
             <h2>Sprachen</h2>
             <ul class="profile-list">
@@ -101,7 +101,7 @@
           <div>
             <h2 class="profile-section-title">Tools / Software</h2>
             <div class="profile-tags">
-              <span>Adobe Creative Cloud</span><span>TYPO3</span><span>WordPress</span><span>Grav</span><span>HTML/CSS</span><span>MS Office</span><span>Google Analytics Basics</span><span>ACTA NOVA</span><span>Wirecast Pro</span><span>CMS &amp; Onlineshop-Pflege</span>
+              <span>Adobe Creative Cloud</span><span>TYPO3</span><span>WordPress</span><span>Grav</span><span>HTML/CSS</span><span>MS Office</span><span>Google Analytics Basics</span><span>ACTA NOVA</span><span>Wirecast Pro</span><span>Webflow</span><span>CMS &amp; Onlineshop-Pflege</span>
             </div>
           </div>
           <div>
@@ -120,7 +120,7 @@
         <div class="cta__decor cta__decor--br" aria-hidden="true"></div>
         <div class="container cta__inner">
           <h2>Interesse an einer Zusammenarbeit?</h2>
-          <p>Für passende Positionen, projektbezogene Unterstützung oder freelance Mandate freue ich mich über eine kurze Nachricht.</p>
+          <p>Für passende Positionen, projektbezogene Unterstützung oder ausgewählte Freelance-Mandate freue ich mich über eine kurze Nachricht an adam@dolinsky.ch.</p>
           <div class="cta__actions">
             <a class="btn btn--light" href="mailto:adam@dolinsky.ch">adam@dolinsky.ch <span class="arrow">→</span></a>
             <a class="btn btn--outline-light" href="/portfolio">Portfolio ansehen</a>

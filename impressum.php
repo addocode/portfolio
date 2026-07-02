@@ -26,16 +26,13 @@
             <p>
             <strong>Adam Dolinsky</strong><br />
             Design & Digital Content<br />
-            Seftigenstrasse 113<br />
-            3007 Bern<br />
+            Bern<br />
             Schweiz
             </p>
 
             <p>
             <strong>E-Mail:</strong> 
-            <a href="mailto:adam@dolinsky.ch">adam@dolinsky.ch</a><br />
-            <strong>Telefon:</strong> 
-            <a href="tel:+41414132222">+41 41 413 22 22</a>
+            <a href="mailto:adam@dolinsky.ch">adam@dolinsky.ch</a>
             </p>
 
         </section>
@@ -70,7 +67,7 @@
             Wenn Sie per E-Mail oder auf anderem Weg Kontakt aufnehmen, werden Ihre Angaben zur Bearbeitung 
             Ihrer Anfrage sowie für mögliche Anschlussfragen verwendet. 
             Weitere Informationen finden Sie in der 
-            <a href="datenschutz.php">Datenschutzerklärung</a>.
+            <a href="/datenschutz">Datenschutzerklärung</a>.
             </p>
         </section>
         </div>
