@@ -22,7 +22,7 @@
         <h1>Impressum</h1>
 
         <section>
-            <h2>Anbieter / Verantwortliche Stelle</h2>
+            <h2>Anbieter und verantwortliche Stelle</h2>
             <p>
             <strong>Adam Dolinsky</strong><br />
             Design & Digital Content<br />

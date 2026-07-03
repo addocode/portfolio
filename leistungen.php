@@ -17,7 +17,7 @@
     <section class="section section--alt" aria-label="Leistungen">
       <div class="container">
         <h1 class="section__title">Leistungen</h1>
-        <p class="section__subtitle">Schlanke Unterstützung für Unternehmen, Marketingteams und ausgewählte Freelance-Projekte – ohne CMS- oder Framework-Ballast.</p>
+        <p class="section__subtitle">Schlanke Unterstützung für Unternehmen, Marketingteams und ausgewählte freiberufliche Projekte – ohne CMS- oder Framework-Ballast.</p>
         <div class="cards">
           <article class="card"><h3>Digital Content</h3><p>Konzeption, Erstellung und Pflege von Inhalten für Websites, Landingpages, Newsletter, Social Media und Kampagnen.</p></article>
           <article class="card"><h3>Web &amp; CMS</h3><p>Strukturierte Website-Pflege, CMS-Administration, Onlineshop-Inhalte und einfache technische Umsetzungen mit HTML/CSS.</p></article>

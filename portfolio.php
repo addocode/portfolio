@@ -235,7 +235,7 @@
                     <li>Aufbau der Seite in Webflow gemäss Kundenrücksprache</li>
                     <li>Export des Webcodes und Hochladen auf eigenständig geführtes Hosting</li>
                   </ul>
-                  <a class="btn btn--dark btn--sm" href="/pages/portfolio-eier-meier-online-shop.php">Case Study ansehen <span class="arrow">→</span></a>
+                  <a class="btn btn--dark btn--sm" href="/pages/portfolio-eier-meier-online-shop.php">Fallstudie ansehen <span class="arrow">→</span></a>
                   <a class="btn btn--outline btn--sm" href="https://easy.eiermeier.ch" target="_blank" rel="noopener">Website ansehen <span class="arrow">→</span></a>
                 </div>
               </div>
@@ -292,7 +292,7 @@
                     starke Kontraste und klaren Call-to-Action bei gleichzeitiger Berücksichtigung von vorhandenen Designrichtlinien.
                   </p>
                   <ul>
-                    <li>Headline- &amp; CTA-Hierarchie</li>
+                    <li>Headline- und CTA-Hierarchie</li>
                     <li>Motiv-/Bildbearbeitung</li>
                     <li>Ausgabeformate für verschiedene Flächen</li>
                     <button class="btn btn--outline btn--sm js-lightbox" type="button" data-lightbox-src="assets/img/slider/Ad_Board.jpg" data-lightbox-alt="">Vorschau vergrössern <span class="arrow">↗</span></button>
