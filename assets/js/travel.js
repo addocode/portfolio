@@ -1,0 +1,1 @@
+const button=document.querySelector('#plannedToggle');button?.addEventListener('click',()=>{const hidden=document.body.classList.toggle('hide-planned');button.setAttribute('aria-pressed',String(!hidden));button.textContent=hidden?'Geplante Routen zeigen':'Geplante Routen ausblenden'});

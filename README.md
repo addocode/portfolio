@@ -56,3 +56,9 @@ Then open <http://localhost:8000> in a browser.
 - Expand portfolio case studies with concise problem/role/result sections for job applications.
 - Keep CV/application documents private; do not publish public downloadable application packets.
 - Review legal/privacy content before public use, especially if analytics or third-party embeds are added.
+
+## Flugbuch pflegen
+
+`data/Flugdatenbank.md` ist die einzige Quelle für Segmente. Neue Routen werden im vorhandenen Markdown-Format ergänzt; `reise-stats.php` berechnet Statistiken bei jedem Aufruf neu. Jeder verwendete IATA-Code braucht einen Eintrag in `data/airports.json` (Name, Ort, Land sowie Koordinaten). Fehlende Metadaten führen bewusst zu einer Fehlermeldung. `NOU` bezeichnet La Tontouta, `GEA` Magenta.
+
+Regressionstest: `php tests/flight_stats_test.php`. Vorschau: `php -S localhost:8000`, danach `/reise-stats.php` öffnen.
