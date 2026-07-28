@@ -1,0 +1,338 @@
+{
+  "AGA": {
+    "name": "Al Massira Airport",
+    "city": "Agadir (Temsia)",
+    "country": "MA",
+    "latitude": 30.322478,
+    "longitude": -9.412003
+  },
+  "AGP": {
+    "name": "Málaga-Costa del Sol Airport",
+    "city": "Málaga",
+    "country": "ES",
+    "latitude": 36.6749,
+    "longitude": -4.49911
+  },
+  "AOK": {
+    "name": "Karpathos Airport",
+    "city": "Karpathos Island",
+    "country": "GR",
+    "latitude": 35.421398,
+    "longitude": 27.146
+  },
+  "APW": {
+    "name": "Faleolo International Airport",
+    "city": "Apia",
+    "country": "WS",
+    "latitude": -13.83,
+    "longitude": -172.007996
+  },
+  "ARN": {
+    "name": "Stockholm-Arlanda Airport",
+    "city": "Stockholm",
+    "country": "SE",
+    "latitude": 59.64849,
+    "longitude": 17.928829
+  },
+  "ATH": {
+    "name": "Athens Eleftherios Venizelos International Airport",
+    "city": "Spata-Artemida",
+    "country": "GR",
+    "latitude": 37.936401,
+    "longitude": 23.9445
+  },
+  "BSL": {
+    "name": "EuroAirport Basel–Mulhouse–Freiburg",
+    "city": "Bâle / Mulhouse",
+    "country": "FR",
+    "latitude": 47.60068,
+    "longitude": 7.521117
+  },
+  "BUD": {
+    "name": "Budapest Liszt Ferenc International Airport",
+    "city": "Budapest",
+    "country": "HU",
+    "latitude": 47.43018,
+    "longitude": 19.262393
+  },
+  "DBV": {
+    "name": "Dubrovnik Ruđer Bošković Airport",
+    "city": "Dubrovnik",
+    "country": "HR",
+    "latitude": 42.562247,
+    "longitude": 18.265543
+  },
+  "DEL": {
+    "name": "Indira Gandhi International Airport",
+    "city": "New Delhi",
+    "country": "IN",
+    "latitude": 28.55563,
+    "longitude": 77.09519
+  },
+  "FUN": {
+    "name": "Funafuti International Airport",
+    "city": "Funafuti",
+    "country": "TV",
+    "latitude": -8.523885,
+    "longitude": 179.196976
+  },
+  "GCI": {
+    "name": "Guernsey Airport",
+    "city": "Saint Peter Port",
+    "country": "GG",
+    "latitude": 49.435001,
+    "longitude": -2.60197
+  },
+  "GDN": {
+    "name": "Gdańsk Lech Wałęsa Airport",
+    "city": "Gdańsk",
+    "country": "PL",
+    "latitude": 54.377602,
+    "longitude": 18.4662
+  },
+  "GEA": {
+    "name": "Nouméa Magenta Airport",
+    "city": "Nouméa",
+    "country": "NC",
+    "latitude": -22.257706,
+    "longitude": 166.472822
+  },
+  "GUM": {
+    "name": "Antonio B. Won Pat International Airport",
+    "city": "Hagåtña",
+    "country": "GU",
+    "latitude": 13.485,
+    "longitude": 144.797282
+  },
+  "GVA": {
+    "name": "Geneva International Airport",
+    "city": "Geneva",
+    "country": "CH",
+    "latitude": 46.238098,
+    "longitude": 6.10895
+  },
+  "HER": {
+    "name": "Heraklion International Nikos Kazantzakis Airport",
+    "city": "Heraklion",
+    "country": "GR",
+    "latitude": 35.339699,
+    "longitude": 25.1803
+  },
+  "ILP": {
+    "name": "Île des Pins Airport",
+    "city": "Île des Pins",
+    "country": "NC",
+    "latitude": -22.5889,
+    "longitude": 167.455994
+  },
+  "IST": {
+    "name": "İstanbul Airport",
+    "city": "Istanbul",
+    "country": "TR",
+    "latitude": 41.274874,
+    "longitude": 28.732136
+  },
+  "JED": {
+    "name": "King Abdulaziz International Airport",
+    "city": "Jeddah",
+    "country": "SA",
+    "latitude": 21.680241,
+    "longitude": 39.157436
+  },
+  "JER": {
+    "name": "Jersey Airport",
+    "city": "St. Peter",
+    "country": "JE",
+    "latitude": 49.207901,
+    "longitude": -2.19551
+  },
+  "LGW": {
+    "name": "London Gatwick Airport",
+    "city": "London",
+    "country": "GB",
+    "latitude": 51.148744,
+    "longitude": -0.185739
+  },
+  "LTN": {
+    "name": "London Luton Airport",
+    "city": "Luton, Luton",
+    "country": "GB",
+    "latitude": 51.874699,
+    "longitude": -0.368333
+  },
+  "MAD": {
+    "name": "Adolfo Suárez Madrid–Barajas Airport",
+    "city": "Madrid",
+    "country": "ES",
+    "latitude": 40.493407,
+    "longitude": -3.572249
+  },
+  "MLA": {
+    "name": "Malta International Airport",
+    "city": "Valletta",
+    "country": "MT",
+    "latitude": 35.845932,
+    "longitude": 14.491546
+  },
+  "MRU": {
+    "name": "Sir Seewoosagur Ramgoolam International Airport",
+    "city": "Plaine Magnien",
+    "country": "MU",
+    "latitude": -20.430201,
+    "longitude": 57.683601
+  },
+  "MXP": {
+    "name": "Milan Malpensa International Airport",
+    "city": "Ferno (VA)",
+    "country": "IT",
+    "latitude": 45.6306,
+    "longitude": 8.72811
+  },
+  "NAN": {
+    "name": "Nadi International Airport",
+    "city": "Nadi",
+    "country": "FJ",
+    "latitude": -17.761822,
+    "longitude": 177.437843
+  },
+  "NOU": {
+    "name": "La Tontouta International Airport",
+    "city": "Nouméa (La Tontouta)",
+    "country": "NC",
+    "latitude": -22.014601,
+    "longitude": 166.212997
+  },
+  "NRT": {
+    "name": "Narita International Airport",
+    "city": "Narita",
+    "country": "JP",
+    "latitude": 35.76858,
+    "longitude": 140.388714
+  },
+  "POZ": {
+    "name": "Poznań-Ławica Airport",
+    "city": "Poznań",
+    "country": "PL",
+    "latitude": 52.421598,
+    "longitude": 16.823359
+  },
+  "PPG": {
+    "name": "Pago Pago International Airport",
+    "city": "Pago Pago",
+    "country": "AS",
+    "latitude": -14.331,
+    "longitude": -170.710007
+  },
+  "PRN": {
+    "name": "Priština Adem Jashari International Airport",
+    "city": "Prishtina",
+    "country": "XK",
+    "latitude": 42.5728,
+    "longitude": 21.035801
+  },
+  "RAK": {
+    "name": "Marrakesh Menara Airport",
+    "city": "Marrakesh",
+    "country": "MA",
+    "latitude": 31.604807,
+    "longitude": -8.035788
+  },
+  "RUN": {
+    "name": "Roland Garros Airport",
+    "city": "Sainte-Marie",
+    "country": "RE",
+    "latitude": -20.890087,
+    "longitude": 55.518894
+  },
+  "SIN": {
+    "name": "Singapore Changi Airport",
+    "city": "Singapore",
+    "country": "SG",
+    "latitude": 1.35019,
+    "longitude": 103.994003
+  },
+  "SKP": {
+    "name": "Skopje International Airport",
+    "city": "Ilinden",
+    "country": "MK",
+    "latitude": 41.958087,
+    "longitude": 21.622581
+  },
+  "SYD": {
+    "name": "Sydney Kingsford Smith International Airport",
+    "city": "Sydney (Mascot)",
+    "country": "AU",
+    "latitude": -33.946098,
+    "longitude": 151.177002
+  },
+  "TIV": {
+    "name": "Tivat Airport",
+    "city": "Tivat",
+    "country": "ME",
+    "latitude": 42.404701,
+    "longitude": 18.723301
+  },
+  "TOE": {
+    "name": "Tozeur Nefta International Airport",
+    "city": "Tozeur",
+    "country": "TN",
+    "latitude": 33.939701,
+    "longitude": 8.11056
+  },
+  "TSR": {
+    "name": "Timișoara Traian Vuia International Airport",
+    "city": "Timişoara",
+    "country": "RO",
+    "latitude": 45.809898,
+    "longitude": 21.3379
+  },
+  "TUN": {
+    "name": "Tunis Carthage International Airport",
+    "city": "Tunis",
+    "country": "TN",
+    "latitude": 36.851002,
+    "longitude": 10.2272
+  },
+  "UVE": {
+    "name": "Ouvéa Airport",
+    "city": "Ouvéa",
+    "country": "NC",
+    "latitude": -20.640932,
+    "longitude": 166.573024
+  },
+  "VLI": {
+    "name": "Bauerfield International Airport",
+    "city": "Port Vila",
+    "country": "VU",
+    "latitude": -17.699301,
+    "longitude": 168.320007
+  },
+  "WLS": {
+    "name": "Hihifo Airport",
+    "city": "Wallis Island",
+    "country": "WF",
+    "latitude": -13.239445,
+    "longitude": -176.19865
+  },
+  "WRO": {
+    "name": "Copernicus Wrocław Airport",
+    "city": "Wrocław",
+    "country": "PL",
+    "latitude": 51.103719,
+    "longitude": 16.882096
+  },
+  "ZAD": {
+    "name": "Zadar Airport",
+    "city": "Zadar",
+    "country": "HR",
+    "latitude": 44.096986,
+    "longitude": 15.353565
+  },
+  "ZRH": {
+    "name": "Zürich Airport",
+    "city": "Zurich",
+    "country": "CH",
+    "latitude": 47.458056,
+    "longitude": 8.548056
+  }
+}

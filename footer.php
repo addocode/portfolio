@@ -20,6 +20,7 @@
         <a href="/#leistungen">Leistungen</a>
         <a href="/portfolio">Portfolio</a>
         <a href="/ueber-mich">Profil</a>
+        <a href="/reise-stats">Reise-Logbuch</a>
         <a href="mailto:adam@dolinsky.ch">Kontakt</a>
       </div>
 
